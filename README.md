@@ -1,4 +1,4 @@
-<img width=100% bottom=50px src="https://github.com/user-attachments/assets/c1bd62ac-2390-4077-af58-e0fc700c9864"/>
+<img width=100% bottom=50px src="https://capsule-render.vercel.app/api?type=waving&height=110&color=696969"/>
 
 <div align="center">
   
@@ -32,3 +32,6 @@
   <a href="https://www.linkedin.com/in/ant%C3%B4nio-oliveira-148598234/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=110&color=696969&reversal=true&section=footer"/>
