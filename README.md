@@ -8,12 +8,11 @@
 <br>
 <br>
 
-
-
 <div align="center">
-https://contribution.catsjuice.com/_/AntonioO00?chart=3dbar&gap=0.6&scale=2&light=1&flatten=1&animation=mess&animation_duration=4&animation_loop=true&weeks=30&theme=dark_green&dark=true
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=carolbarbosa101&theme=violet-dark&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900)](https://git.io/streak-stats)
 
-
+</div>
 
 <div style="display: inline_block"><br>
 
