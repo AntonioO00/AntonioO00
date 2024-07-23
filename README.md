@@ -8,11 +8,7 @@
 <br>
 <br>
 
-<div align="center" >
-   
-![Ashutosh's github activity graph](https://contribution.catsjuice.com/_/AntonioO00?chart=3dbar&gap=0.6&scale=2&light=1&flatten=1&animation=mess&animation_duration=4&animation_loop=true&weeks=30&theme=dark_green&dark=true)
 
-</div>
 
 <div align="center">
 https://contribution.catsjuice.com/_/AntonioO00?chart=3dbar&gap=0.6&scale=2&light=1&flatten=1&animation=mess&animation_duration=4&animation_loop=true&weeks=30&theme=dark_green&dark=true
