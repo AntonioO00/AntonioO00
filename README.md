@@ -2,17 +2,20 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&weight=300&size=50&duration=4000&pause=1000&color=FFFFFF&center=true&width=1000&height=200&lines=Ol%C3%A1!+Eu+sou+o+Ant%C3%B4nio+Oliveira+;Tenho+23+anos;Estudante+de+Engenharia+de+Software+;Desenvolvedor+Backend;Bem+vindo%3A+)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=FFFFFF&center=true&width=1200&height=100&lines=Ol%C3%A1!+Eu+sou+o+Ant%C3%B4nio+Oliveira+;Tenho+23+anos;Estudante+de+Engenharia+de+Software+;Desenvolvedor+Backend;Bem+vindo%3A+)](https://git.io/typing-svg)
 </div>
 
 <br>
+<br>
 
+<div align="center" >
+   
+![Ashutosh's github activity graph](https://contribution.catsjuice.com/_/AntonioO00?chart=3dbar&gap=0.6&scale=2&light=1&flatten=1&animation=mess&animation_duration=4&animation_loop=true&weeks=30&theme=dark_green&dark=true)
 
-
-<div align="center"> 
-  
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AntonioO00&theme=cobalt)](https://git.io/streak-stats)
 </div>
+
+<div align="center">
+https://contribution.catsjuice.com/_/AntonioO00?chart=3dbar&gap=0.6&scale=2&light=1&flatten=1&animation=mess&animation_duration=4&animation_loop=true&weeks=30&theme=dark_green&dark=true
 
 
 
