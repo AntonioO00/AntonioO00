@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Antônio Oliveira 
 
-Este é um perfil de Estudante de Engenharia de Software da escola Politecnica pertencente a Pontifícia Universidade Católica do Rio Grande do Sul (PUC-RS)
+Este é um perfil de Estudante de Engenharia de Software da escola Politécnica pertencente a Pontifícia Universidade Católica do Rio Grande do Sul (PUC-RS)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
