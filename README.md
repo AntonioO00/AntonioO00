@@ -1,16 +1,13 @@
-
-
-
-![github-header-image(1)](https://github.com/user-attachments/assets/c39cf31b-0717-4a31-afa9-d34193ac6943)
-
+<img width=100% bottom=50px src="https://github.com/user-attachments/assets/c1bd62ac-2390-4077-af58-e0fc700c9864"/>
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=813D65&width=435&lines=Ol%C3%A1!+Eu+sou+o+Ant%C3%B4nio+Oliveira+;Estudante+de+Engenharia+de+Software+na+PUC-RS)](https://git.io/typing-svg)
-  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&weight=300&size=50&duration=4000&pause=1000&color=FFFFFF&center=true&width=1000&height=200&lines=Ol%C3%A1!+Eu+sou+o+Ant%C3%B4nio+Oliveira+;Tenho+23+anos;Estudante+de+Engenharia+de+Software+;Desenvolvedor+Backend;Bem+vindo%3A+)](https://git.io/typing-svg)
 </div>
+
 <br>
-<br>
+
+
 
 <div align="center"> 
   
