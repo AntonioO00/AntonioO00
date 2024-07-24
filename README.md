@@ -14,8 +14,6 @@
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AntonioO00&theme=shadow-purple&card_width=1000)](https://git.io/streak-stats)
 </div>
 <br>
-<br>
-
 
 <div align="center" >
    
